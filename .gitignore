@@ -11,8 +11,6 @@ __pycache__/
 credentials*.json
 secrets*
 
-CLAUDE.md
-.claude/
 .vscode/
 .idea/
 .DS_Store
