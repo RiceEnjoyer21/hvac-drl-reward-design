@@ -1,0 +1,9 @@
+algo: td3
+reward: r2
+kappa: 50.0
+features: band_time
+residual: true
+delta_occ: 2.0
+delta_unocc: 7.0
+total_timesteps: 350400
+eval_freq: 35040

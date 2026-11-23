@@ -1,0 +1,18 @@
+# main comparison, R2 kappa=50, band+time features, 3 seeds
+sac_res_k50 1
+sac_r2_k50 1
+td3_r2_k50 1
+ppo_r2_k50 1
+sac_res_k50 2
+sac_r2_k50 2
+td3_r2_k50 2
+ppo_r2_k50 2
+sac_res_k50 3
+sac_r2_k50 3
+td3_r2_k50 3
+ppo_r2_k50 3
+# Pareto over kappa (SAC) and ablation of observation features
+sac_r2_k25 1
+sac_r2_k100 1
+sac_r2_k50_base 1
+td3_res_k50 1

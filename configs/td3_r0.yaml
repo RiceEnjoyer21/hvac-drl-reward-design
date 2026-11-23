@@ -1,0 +1,5 @@
+algo: td3
+reward: r0
+w: null
+total_timesteps: 350400
+eval_freq: 35040

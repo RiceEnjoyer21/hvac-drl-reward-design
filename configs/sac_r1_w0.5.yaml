@@ -1,0 +1,5 @@
+algo: sac
+reward: r1
+w: 0.5
+total_timesteps: 350400
+eval_freq: 35040
